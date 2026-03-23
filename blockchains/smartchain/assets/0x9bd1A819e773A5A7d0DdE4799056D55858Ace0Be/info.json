@@ -1,0 +1,11 @@
+{
+  "name": "USDTC",
+  "website": "https://usdtc-community.co.in/",
+  "description": "USDTC is a BEP20 token on BNB Smart Chain designed for ecosystem participation, community engagement, and educational exploration of blockchain technology.",
+  "explorer": "https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
+  "type": "BEP20",
+  "symbol": "USDTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be"
+}
