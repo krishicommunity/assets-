@@ -7,5 +7,31 @@
   "symbol": "USDTC",
   "decimals": 18,
   "status": "active",
-  "id": "0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be"
+  "id": "0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://usdtc-community.co.in/"
+    },
+    {
+      "name": "explorer",
+      "url": "https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/krishicommunity/usdtc-community-token"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/UsdtcCommunity"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/usdtctoken"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/sumit-borkar-7b079b35"
+    }
+  ]
 }
