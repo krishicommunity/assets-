@@ -1,17 +1,17 @@
 {
-  "name": "USDTC",
-  "website": "https://usdtc-community.co.in/",
-  "description": "USDTC is a BEP20 token on BNB Smart Chain designed for ecosystem participation, community engagement, and educational exploration of blockchain technology.",
-  "explorer": "https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
-  "type": "BEP20",
+  "name": "USDTC Experimental Token",
   "symbol": "USDTC",
+  "type": "BEP20",
   "decimals": 18,
+  "description": "USDTC is an experimental BEP-20 token on BNB Smart Chain designed for blockchain education, community participation, and decentralized interaction. It enables transparent on-chain activity and ecosystem engagement.",
+  "website": "https://usdtcexperimental.com/",
+  "explorer": "https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
   "status": "active",
   "id": "0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
   "links": [
     {
       "name": "website",
-      "url": "https://usdtc-community.co.in/"
+      "url": "https://usdtcexperimental.com/"
     },
     {
       "name": "explorer",
@@ -28,10 +28,6 @@
     {
       "name": "telegram",
       "url": "https://t.me/usdtctoken"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com/in/sumit-borkar-7b079b35"
     }
   ]
 }
