@@ -7,19 +7,5 @@
   "website": "https://usdtcexperimental.com/",
   "explorer": "https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
   "status": "active",
-  "id": "0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be",
-  "links": [
-    {
-      "name": "github",
-      "url": "https://github.com/krishicommunity/usdtc-community-token"
-    },
-    {
-      "name": "twitter",
-      "url": "https://x.com/UsdtcCommunity"
-    },
-    {
-      "name": "telegram",
-      "url": "https://t.me/usdtctoken"
-    }
-  ]
+  "id": "0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be"
 }
